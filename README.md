@@ -19,11 +19,7 @@ This repository contains my submission for **Task 1** of the **Data Science Inte
 6. **Analyzed the distribution** of the target variable (`Aggregate rating`) using a histogram
 7. **Identified class imbalance** in the target column (many records with 0.0 rating)
 
----
 
-## 📈 Output Snapshot
-
-![Distribution Histogram](rating_histogram.png)
 
 ---
 
